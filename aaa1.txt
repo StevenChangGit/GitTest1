@@ -2,6 +2,12 @@ MASTER在這邊加了功能
 
 aaa1
 aaa2
+<<<<<<< HEAD
 aa3master!!!
+=======
+aa3This is student2~
+>>>>>>> Student2
 
 This is student
+
+
