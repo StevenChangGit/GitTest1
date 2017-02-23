@@ -1,3 +1,0 @@
-branchtest1 say hi
-
-branchtest2 say hi
